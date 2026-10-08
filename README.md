@@ -10,12 +10,12 @@ I’m particularly interested in **FP&A, corporate finance and finance transform
 
 ## 💼 What I Work With
 
-- **Finance & FP&A** — MIS, budgeting, forecasting, variance analysis
-- **Accounting & Reporting** — Month-end closing, reconciliations, financial reporting
-- **Taxation** — GST, TDS & Income Tax
-- **Financial Automation** — Excel, Python & process automation
-- **Data & Visualization** — Power BI, Excel dashboards
-- **Finance Technology** — Practical use of AI and automation in finance
+- **Finance & FP&A** - MIS, budgeting, forecasting, variance analysis
+- **Accounting & Reporting** - Month-end closing, reconciliations, financial reporting
+- **Taxation** - GST, TDS & Income Tax
+- **Financial Automation** - Excel, Python & process automation
+- **Data & Visualization** - Power BI, Excel dashboards
+- **Finance Technology** - Practical use of AI and automation in finance
 
 ---
 
@@ -63,7 +63,7 @@ My goal is to become a finance professional who can not only understand the numb
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Bhavesh Kurhade](https://www.linkedin.com/)
+- 💼 LinkedIn: [Bhavesh Kurhade](https://www.linkedin.com/in/bhavesh-kurhade-07503b282/)
 - 📧 Email: Available on request
 
 ---
