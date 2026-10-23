@@ -6,7 +6,6 @@ import {
   FileText,
   Mail,
   MapPin,
-  Phone,
 } from 'lucide-react';
 import { KEY_PROOF_METRICS, PROFILE } from '../data/profileData';
 
@@ -110,16 +109,6 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenResumeModal }) =
                   </>
                 )}
               </button>
-
-              <span className="hidden text-[#CFD5CE] sm:inline">|</span>
-
-              <a
-                href={PROFILE.phoneHref}
-                className="tabular-nums inline-flex items-center gap-1.5 transition-colors hover:text-[#111820]"
-              >
-                <Phone className="h-3.5 w-3.5 text-[#64707D]" strokeWidth={1.8} />
-                <span>{PROFILE.phoneDisplay}</span>
-              </a>
 
               <span className="hidden text-[#CFD5CE] sm:inline">|</span>
 
