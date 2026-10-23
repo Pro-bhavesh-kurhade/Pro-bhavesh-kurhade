@@ -2,7 +2,7 @@
 
 ### CA Finalist (Target Nov 2026) · Semi-Qualified Chartered Accountant · Corporate Finance, Taxation & Financial Automation
 
-📍 **Thane (W), Mumbai MMR, India** · 📧 [bhaveshkurhade2004@gmail.com](mailto:bhaveshkurhade2004@gmail.com) · 📞 `+91 93248 53483`  
+📍 **Thane (W), Mumbai MMR, India** · 📧 [bhaveshkurhade2004@gmail.com](mailto:bhaveshkurhade2004@gmail.com)  
 🔗 **[View Resume (PDF)](./public/Bhavesh_Kurhade_CA_Finalist_Resume.pdf)** · **[LinkedIn Profile](https://www.linkedin.com/in/bhavesh-kurhade-07503b282/)** · **[Live Portfolio Website](https://pro-bhavesh-kurhade.github.io/Pro-bhavesh-kurhade/)**
 
 ---

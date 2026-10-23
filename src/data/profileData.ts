@@ -40,8 +40,6 @@ export const PROFILE = {
   headline: 'Corporate Finance, Taxation & Financial Automation',
   roleLine: 'CA Finalist  ·  Semi-Qualified Chartered Accountant  ·  Corporate Finance & FP&A',
   location: 'Thane (W), Mumbai MMR, India',
-  phoneDisplay: '+91 93248 53483',
-  phoneHref: 'tel:+919324853483',
   email: 'bhaveshkurhade2004@gmail.com',
   linkedinUrl: 'https://www.linkedin.com/in/bhavesh-kurhade-07503b282/',
   linkedinHandle: 'linkedin.com/in/bhavesh-kurhade-07503b282',
